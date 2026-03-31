@@ -1,4 +1,4 @@
-# Smart Service Allocation and Booking System - Backend API
+# Find your Kaarigar (Smart Service Allocation and Booking System) - Backend API
 
 A comprehensive Node.js + Express backend for a smart service allocation and booking system with MongoDB database, JWT authentication, and role-based access control.
 
